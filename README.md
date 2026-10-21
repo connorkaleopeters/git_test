@@ -1,2 +1,3 @@
 # git_test
-HELLO ODIN!!!!
+hello people
+thi sis test for git to work pls work pls 
